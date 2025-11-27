@@ -84,5 +84,3 @@ This project is developed as part of our **Student Club Collaboration Initiative
 | Storage/CDN     | Cloudinary / Firebase        | Fast handling of media files |
 
 
-
-### Users
